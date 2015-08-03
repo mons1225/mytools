@@ -1,0 +1,6 @@
+lightline.vim
+neobundle.vim
+unite.vim
+vimfiler
+vimproc
+vimshell
